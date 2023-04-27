@@ -14,6 +14,7 @@ if(idade < 15){
 }
 else if(idade > 15 && idade < 18){
     resposta = entrada('Acredito que voce esteja no ensino medio. \nEstou certo?(reponda s/n)');
+    
 }
 else{
     resposta = entrada('Acredito que voce ja tenha terminado o ensino medio. \nEstou certo?(reponda s/n)');

@@ -12,7 +12,8 @@
                 "<node_internals>/**"
             ],
             "program": "${workspaceFolder}\\node_modules\\index.js",
-            "outputCapture": "std"
+            "outputCapture": "std",
+            "console": "integratedTerminal"
         }
     ]
 }
